@@ -5,4 +5,5 @@ Objectives
 1) To find and implement motion planning and the pattern which the robot follows to explore the environment.
 2) To implement accurate kinematics for the robot in order to achieve accurate mapping.
 3) To detect and map obstacles and other features on map.
+
 The final project report has been attached
