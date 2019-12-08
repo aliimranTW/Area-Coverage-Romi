@@ -6,4 +6,4 @@ Objectives
 2) To implement accurate kinematics for the robot in order to achieve accurate mapping.
 3) To detect and map obstacles and other features on map.
 
-The final project report has been attached
+The final project report has been attached.
